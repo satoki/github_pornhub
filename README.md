@@ -4,7 +4,7 @@
 ![files/logo.png](files/logo.png)  
 This page is a joke, but the vulnerability is real.  
 The Android GitHub app can lead users to phishing sites.  
-
+**This article is published after getting permission from GitHub.**  
 
 ## Vulnerability
 
@@ -31,8 +31,8 @@ Android app -> Pornhub login page
 
 ## Demo
 
-**Browser -> GitHub login page**  
+### Browser -> GitHub login page
 <img src="files/01.gif" alt="files/01.gif" width="378" height="798">  
 
-**Android app -> Pornhub login page**  
+### Android app -> Pornhub login page
 <img src="files/02.gif" alt="files/02.gif" width="378" height="798">  

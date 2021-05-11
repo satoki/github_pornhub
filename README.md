@@ -4,11 +4,12 @@
 ![files/logo.png](files/logo.png)  
 This page is a joke, but the vulnerability is real.  
 The Android GitHub app can lead users to phishing sites.  
-**This article is published after getting permission from GitHub.**  
+  
+**This article has been published after getting permission from GitHub.**  
 
 ## Vulnerability
 
-🐛Android app (GitHub 1.12.0)  
+**🐛Android app (GitHub 1.12.0)**  
 Since the URL of "Issue" has not been confirmed correctly, the link destination is different between the Android app and others.
 It works fine when the user accesses the link on a non-Android device.
 The user now trusts the link.

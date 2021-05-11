@@ -32,7 +32,7 @@ Android app -> Pornhub login page
 ## Demo
 
 **Browser -> GitHub login page**  
-<img src="files/01.gif" alt="files/01.gif" width="604" height="1276">  
+<img src="files/01.gif" alt="files/01.gif" width="378" height="798">  
 
 **Android app -> Pornhub login page**  
-<img src="files/02.gif" alt="files/02.gif" width="604" height="1276">  
+<img src="files/02.gif" alt="files/02.gif" width="378" height="798">  

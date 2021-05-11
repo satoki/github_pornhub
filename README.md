@@ -20,8 +20,8 @@ Attackers can direct users to phishing sites.
 
 **PoC is [https://github.com/satoki/github_pornhub/issues/1](https://github.com/satoki/github_pornhub/issues/1).**  
 
-Android app -> Pornhub login page.  
-Others -> GitHub login page.  
+Browser -> GitHub login page  
+Android app -> Pornhub login page  
 
 ```markdown
 
@@ -31,3 +31,8 @@ Others -> GitHub login page.
 
 ## Demo
 
+**Browser -> GitHub login page**  
+![files/01.gif](files/01.gif)  
+
+**Android app -> Pornhub login page**  
+![files/02.gif](files/02.gif)  
